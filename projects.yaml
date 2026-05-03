@@ -1,0 +1,108 @@
+configuration:
+  markdown_header_file: "config/header.md"
+  markdown_footer_file: "config/footer.md"
+  min_stars: 0
+  min_projectrank: 0
+  require_license: False
+
+categories:
+  - category: definition
+    title: Definitions
+    subtitle: Definitions of array API standard
+  - category: backend
+    title: Backends
+    subtitle: Implementations of array API standard
+  - category: core
+    title: Core packages
+    subtitle: array API related packages
+  - category: typing
+    title: Typing packages
+    subtitle: Packages related to typing
+  - category: utility
+    title: Utility packages
+    subtitle: Packages useful for developing array API compatible packages, with less scientific context
+  - category: scientific
+    title: Scientific packages
+    subtitle: array API compatible packages with non-machine learning scientific context
+  - category: ml
+    title: Machine learning packages
+    subtitle: array API compatible packages with machine learning context
+  - category: awesome
+    title: Other awesome lists
+
+labels:
+  - label: verified
+    name: Verified
+    description: Verified (e.g. interval / ball) arithmetic
+  - label: multiprec
+    name: Multiprecision
+    description: Multiprecision arithmetic
+  - label: symbolic
+    name: Symbolic
+    description: Symbolic computation
+  - label: noncpu
+    name: Non-CPU
+    description: Implementations for non-CPU hardware (e.g. GPU, TPU)
+
+projects:
+  - github_id: data-apis/array-api
+    category: definition
+  - github_id: data-apis/array-api-extra
+    category: core
+  - github_id: data-apis/array-api-compat
+    category: core
+  - github_id: data-apis/array-api-tests
+    category: core
+  - github_id: data-apis/array-api-strict
+    category: core
+  # Not including WIP packages
+  # - github_id: data-apis/array-api-typing
+  #   category: typing
+  # - github_id: data-apis/array-api-rng
+  #   category: core
+  - github_id: numpy/numpy
+    category: backend
+  - github_id: pytorch/pytorch
+    category: backend
+    labels: [noncpu]
+  # - github_id: tensorflow/tensorflow
+  #   category: backend
+  - github_id: jax-devs/jax
+    category: backend
+    labels: [noncpu]
+  - github_id: cupy/cupy
+    category: backend
+    labels: [noncpu]
+  - github_id: dask/dask
+    category: backend
+    labels: [noncpu]
+  - github_id: Quantco/ndonnx
+    category: backend
+    labels: [noncpu]
+  - github_id: pydata/sparse
+    category: backend
+  - github_id: ivy-llc/ivy
+    category: backend
+    labels: [noncpu]
+  - github_id: mdhaber/mparray
+    category: backend
+    labels: [verified, multiprec]
+  - github_id: 34j/numpy-flint-arb
+    category: backend
+    labels: [verified, multiprec]
+  - github_id: 34j/types-array-api
+    category: typing
+  - github_id: pydata/xarray
+    category: utility
+  - github_id: mdhaber/marray
+    category: utility
+  - github_id: scikit-hep/ragged
+    category: utility
+  - github_id: quantity-dev/quantity-array
+    category: utility
+  - github_id: 34j/array-api-negative-index
+    category: utility
+  - github_id: helmholtz-analytics/heat
+    category: ml
+  - github_id: wilsonrljr/sysidentpy
+    category: ml
