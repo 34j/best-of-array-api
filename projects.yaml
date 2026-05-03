@@ -51,15 +51,19 @@ projects:
   - github_id: data-apis/array-api-extra
     name: array-api-extra
     category: core
+    pypi_id: array-api-extra
   - github_id: data-apis/array-api-compat
     name: array-api-compat
     category: core
+    pypi_id: array-api-compat
   - github_id: data-apis/array-api-tests
     name: array-api-tests
     category: core
+    pypi_id: array-api-tests
   - github_id: data-apis/array-api-strict
     name: array-api-strict
     category: core
+    pypi_id: array-api-strict
   # Not including WIP packages
   # - github_id: data-apis/array-api-typing
   #   category: typing
@@ -68,64 +72,82 @@ projects:
   - github_id: numpy/numpy
     name: NumPy
     category: backend
+    pypi_id: numpy
   - github_id: pytorch/pytorch
     name: PyTorch
     category: backend
+    pypi_id: torch
     labels: [noncpu]
   # - github_id: tensorflow/tensorflow
   #   category: backend
-  - github_id: jax-devs/jax
+  - github_id: jax-ml/jax
     name: JAX
     category: backend
+    pypi_id: jax
     labels: [noncpu]
   - github_id: cupy/cupy
     name: CuPy
     category: backend
+    pypi_id: cupy
     labels: [noncpu]
   - github_id: dask/dask
     name: Dask
     category: backend
+    pypi_id: dask
     labels: [noncpu]
   - github_id: Quantco/ndonnx
     name: ndonnx
     category: backend
+    pypi_id: ndonnx
     labels: [noncpu]
   - github_id: pydata/sparse
     name: sparse
     category: backend
+    pypi_id: sparse
   - github_id: ivy-llc/ivy
     name: Ivy
     category: backend
+    pypi_id: ivy
     labels: [noncpu]
   - github_id: mdhaber/mparray
     name: mparray
     category: backend
+    pypi_id: mparray
     labels: [verified, multiprec]
   - github_id: 34j/numpy-flint-arb
     name: numpy-flint-arb
     category: backend
+    pypi_id: numpy-flint-arb
     labels: [verified, multiprec]
   - github_id: 34j/types-array-api
     name: types-array-api
     category: typing
+    pypi_id: types-array-api
   - github_id: pydata/xarray
     name: xarray
     category: utility
+    pypi_id: xarray
   - github_id: mdhaber/marray
     name: marray
     category: utility
+    pypi_id: marray
   - github_id: scikit-hep/ragged
     name: ragged
     category: utility
+    pypi_id: ragged
   - github_id: quantity-dev/quantity-array
     name: quantity-array
     category: utility
+    pypi_id: quantity-array
   - github_id: 34j/array-api-negative-index
     name: array-api-negative-index
     category: utility
+    pypi_id: array-api-negative-index
   - github_id: helmholtz-analytics/heat
     name: heat
     category: ml
+    pypi_id: heat
   - github_id: wilsonrljr/sysidentpy
     name: SysIdentPy
     category: ml
+    pypi_id: sysidentpy
