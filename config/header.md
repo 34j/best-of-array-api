@@ -16,6 +16,8 @@
 </p>
 
 <!-- prettier-ignore -->
-This curated list contains {project_count} awesome open-source projects with a total of {stars_count} stars grouped into {category_count} categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to ~open an [issue](https://github.com/34j/best-of-array-api/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-array-api/pulls), or **_directly edit the [projects.yaml](https://github.com/34j/best-of-array-api/edit/main/projects.yaml)_**. Contributions are very welcome!
+This curated list contains {project_count} awesome open-source projects with a total of {stars_count} stars grouped into {category_count} categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to **_directly edit the [projects.yaml](https://github.com/34j/best-of-array-api/edit/main/projects.yaml)_**. Contributions are very welcome!
+
+<!-- ~open an [issue](https://github.com/34j/best-of-array-api/issues/new/choose)~, submit a [pull request](https://github.com/34j/best-of-array-api/pulls),  -->
 
 > 🧙‍♂️ Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
