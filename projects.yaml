@@ -46,14 +46,19 @@ labels:
 
 projects:
   - github_id: data-apis/array-api
+    name: Array API standard
     category: definition
   - github_id: data-apis/array-api-extra
+    name: array-api-extra
     category: core
   - github_id: data-apis/array-api-compat
+    name: array-api-compat
     category: core
   - github_id: data-apis/array-api-tests
+    name: array-api-tests
     category: core
   - github_id: data-apis/array-api-strict
+    name: array-api-strict
     category: core
   # Not including WIP packages
   # - github_id: data-apis/array-api-typing
@@ -61,48 +66,66 @@ projects:
   # - github_id: data-apis/array-api-rng
   #   category: core
   - github_id: numpy/numpy
+    name: NumPy
     category: backend
   - github_id: pytorch/pytorch
+    name: PyTorch
     category: backend
     labels: [noncpu]
   # - github_id: tensorflow/tensorflow
   #   category: backend
   - github_id: jax-devs/jax
+    name: JAX
     category: backend
     labels: [noncpu]
   - github_id: cupy/cupy
+    name: CuPy
     category: backend
     labels: [noncpu]
   - github_id: dask/dask
+    name: Dask
     category: backend
     labels: [noncpu]
   - github_id: Quantco/ndonnx
+    name: ndonnx
     category: backend
     labels: [noncpu]
   - github_id: pydata/sparse
+    name: sparse
     category: backend
   - github_id: ivy-llc/ivy
+    name: Ivy
     category: backend
     labels: [noncpu]
   - github_id: mdhaber/mparray
+    name: mparray
     category: backend
     labels: [verified, multiprec]
   - github_id: 34j/numpy-flint-arb
+    name: numpy-flint-arb
     category: backend
     labels: [verified, multiprec]
   - github_id: 34j/types-array-api
+    name: types-array-api
     category: typing
   - github_id: pydata/xarray
+    name: xarray
     category: utility
   - github_id: mdhaber/marray
+    name: marray
     category: utility
   - github_id: scikit-hep/ragged
+    name: ragged
     category: utility
   - github_id: quantity-dev/quantity-array
+    name: quantity-array
     category: utility
   - github_id: 34j/array-api-negative-index
+    name: array-api-negative-index
     category: utility
   - github_id: helmholtz-analytics/heat
+    name: heat
     category: ml
   - github_id: wilsonrljr/sysidentpy
+    name: SysIdentPy
     category: ml
