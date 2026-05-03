@@ -59,7 +59,6 @@ projects:
   - github_id: data-apis/array-api-tests
     name: array-api-tests
     category: core
-    pypi_id: array-api-tests
   - github_id: data-apis/array-api-strict
     name: array-api-strict
     category: core
