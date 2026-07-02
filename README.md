@@ -58,7 +58,7 @@ This curated list contains 23 awesome open-source projects with a total of 210K 
 
 _Definitions of array API standard_
 
-<details><summary><b><a href="https://github.com/data-apis/array-api">Array API standard</a></b> (🥇17 ·  ⭐ 270) - RFC document, tooling and other content related to the array.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/data-apis/array-api">Array API standard</a></b> (🥇16 ·  ⭐ 270) - RFC document, tooling and other content related to the array.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/data-apis/array-api) (👨‍💻 38 · 🔀 54 · 📦 4 · 📋 410 - 22% open · ⏱️ 23.04.2026):
 
@@ -75,22 +75,22 @@ _Definitions of array API standard_
 
 _Implementations of array API standard_
 
-<details><summary><b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b> (🥇56 ·  ⭐ 100K) - Tensors and Dynamic neural networks in Python with strong GPU.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>Non-CPU</code></summary>
+<details><summary><b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b> (🥇51 ·  ⭐ 100K · 📉) - Tensors and Dynamic neural networks in Python with strong GPU.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>Non-CPU</code></summary>
 
-- [GitHub](https://github.com/pytorch/pytorch) (👨‍💻 6.7K · 🔀 28K · 📥 300K · 📦 860K · 📋 62K - 29% open · ⏱️ 25.06.2026):
+- [GitHub](https://github.com/pytorch/pytorch) (👨‍💻 6.7K · 🔀 28K · 📥 300K · 📦 860K · 📋 62K - 29% open · ⏱️ 02.07.2026):
 
   ```
   git clone https://github.com/pytorch/pytorch
   ```
 
-- [PyPi](https://pypi.org/project/torch) (📥 87M / month · 📦 42K · ⏱️ 17.06.2026):
+- [PyPi](https://pypi.org/project/torch) (📦 43K · ⏱️ 17.06.2026):
 `
 	pip install torch
 	`
 </details>
-<details><summary><b><a href="https://github.com/numpy/numpy">NumPy</a></b> (🥈51 ·  ⭐ 32K · 📈) - The fundamental package for scientific computing with Python. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/numpy/numpy">NumPy</a></b> (🥇51 ·  ⭐ 32K) - The fundamental package for scientific computing with Python. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/numpy/numpy) (👨‍💻 2.1K · 🔀 12K · 📥 1.2M · 📦 3.7M · 📋 14K - 16% open · ⏱️ 25.06.2026):
+- [GitHub](https://github.com/numpy/numpy) (👨‍💻 2.1K · 🔀 12K · 📥 1.2M · 📦 3.7M · 📋 14K - 16% open · ⏱️ 01.07.2026):
 
   ```
   git clone https://github.com/numpy/numpy
@@ -101,22 +101,22 @@ _Implementations of array API standard_
 	pip install numpy
 	`
 </details>
-<details><summary><b><a href="https://github.com/jax-ml/jax">JAX</a></b> (🥈46 ·  ⭐ 36K) - Composable transformations of Python+NumPy programs: differentiate,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>Non-CPU</code></summary>
+<details><summary><b><a href="https://github.com/jax-ml/jax">JAX</a></b> (🥈39 ·  ⭐ 36K · 📉) - Composable transformations of Python+NumPy programs:.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>Non-CPU</code></summary>
 
-- [GitHub](https://github.com/jax-ml/jax) (👨‍💻 1.1K · 🔀 3.7K · 📦 50K · 📋 7.9K - 31% open · ⏱️ 25.06.2026):
+- [GitHub](https://github.com/jax-ml/jax) (👨‍💻 1.1K · 🔀 3.7K · 📦 50K · 📋 7.9K - 31% open · ⏱️ 02.07.2026):
 
   ```
   git clone https://github.com/jax-ml/jax
   ```
 
-- [PyPi](https://pypi.org/project/jax) (📥 19M / month · 📦 4.6K · ⏱️ 17.06.2026):
+- [PyPi](https://pypi.org/project/jax) (📦 4.6K · ⏱️ 17.06.2026):
 `
 	pip install jax
 	`
 </details>
-<details><summary><b><a href="https://github.com/dask/dask">Dask</a></b> (🥈38 ·  ⭐ 14K · 📉) - Parallel computing with task scheduling. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>Non-CPU</code></summary>
+<details><summary><b><a href="https://github.com/dask/dask">Dask</a></b> (🥈38 ·  ⭐ 14K) - Parallel computing with task scheduling. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>Non-CPU</code></summary>
 
-- [GitHub](https://github.com/dask/dask) (👨‍💻 650 · 🔀 1.9K · 📦 80K · 📋 5.8K - 21% open · ⏱️ 23.06.2026):
+- [GitHub](https://github.com/dask/dask) (👨‍💻 650 · 🔀 1.9K · 📦 80K · 📋 5.8K - 21% open · ⏱️ 01.07.2026):
 
   ```
   git clone https://github.com/dask/dask
@@ -127,7 +127,7 @@ _Implementations of array API standard_
 	pip install dask
 	`
 </details>
-<details><summary><b><a href="https://github.com/unifyai/ivy">Ivy</a></b> (🥉29 ·  ⭐ 14K · 📉) - Convert Machine Learning Code Between Frameworks. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>Non-CPU</code></summary>
+<details><summary><b><a href="https://github.com/unifyai/ivy">Ivy</a></b> (🥉29 ·  ⭐ 14K) - Convert Machine Learning Code Between Frameworks. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>Non-CPU</code></summary>
 
 - [GitHub](https://github.com/unifyai/ivy) (👨‍💻 1.5K · 🔀 5.6K · 📋 17K - 5% open · ⏱️ 07.02.2026):
 
@@ -140,20 +140,7 @@ _Implementations of array API standard_
 	pip install ivy
 	`
 </details>
-<details><summary><b><a href="https://github.com/pydata/sparse">sparse</a></b> (🥉23 ·  ⭐ 660 · 📉) - Sparse multi-dimensional arrays for the PyData ecosystem. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/pydata/sparse) (👨‍💻 64 · 🔀 130 · 📦 2.3K · 📋 340 - 21% open · ⏱️ 25.06.2026):
-
-  ```
-  git clone https://github.com/pydata/sparse
-  ```
-
-- [PyPi](https://pypi.org/project/sparse) (📦 310 · ⏱️ 19.02.2026):
-`
-	pip install sparse
-	`
-</details>
-<details><summary><b><a href="https://github.com/cupy/cupy">CuPy</a></b> (🥉22 ·  ⭐ 11K · 📉) - NumPy & SciPy for GPU. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Non-CPU</code></summary>
+<details><summary><b><a href="https://github.com/cupy/cupy">CuPy</a></b> (🥉26 ·  ⭐ 11K · 📈) - NumPy & SciPy for GPU. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Non-CPU</code></summary>
 
 - [GitHub](https://github.com/cupy/cupy) (👨‍💻 380 · 🔀 1K):
 
@@ -161,14 +148,27 @@ _Implementations of array API standard_
   git clone https://github.com/cupy/cupy
   ```
 
-- [PyPi](https://pypi.org/project/cupy) (📦 580 · ⏱️ 01.06.2026):
+- [PyPi](https://pypi.org/project/cupy) (📥 44K / month · 📦 580 · ⏱️ 01.06.2026):
 `
 	pip install cupy
 	`
 </details>
-<details><summary><b><a href="https://github.com/Quantco/ndonnx">ndonnx</a></b> (🥉18 ·  ⭐ 68 · 📉) - ONNX-backed array library that is compliant with the Array API.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>Non-CPU</code></summary>
+<details><summary><b><a href="https://github.com/pydata/sparse">sparse</a></b> (🥉23 ·  ⭐ 660) - Sparse multi-dimensional arrays for the PyData ecosystem. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/Quantco/ndonnx) (👨‍💻 26 · 🔀 3 · 📦 30 · 📋 36 - 16% open · ⏱️ 16.06.2026):
+- [GitHub](https://github.com/pydata/sparse) (👨‍💻 64 · 🔀 140 · 📥 2 · 📦 2.3K · 📋 340 - 21% open · ⏱️ 01.07.2026):
+
+  ```
+  git clone https://github.com/pydata/sparse
+  ```
+
+- [PyPi](https://pypi.org/project/sparse) (📦 340 · ⏱️ 02.07.2026):
+`
+	pip install sparse
+	`
+</details>
+<details><summary><b><a href="https://github.com/Quantco/ndonnx">ndonnx</a></b> (🥉18 ·  ⭐ 68) - ONNX-backed array library that is compliant with the Array API.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>Non-CPU</code></summary>
+
+- [GitHub](https://github.com/Quantco/ndonnx) (👨‍💻 26 · 🔀 3 · 📦 30 · 📋 36 - 16% open · ⏱️ 01.07.2026):
 
   ```
   git clone https://github.com/Quantco/ndonnx
@@ -179,15 +179,15 @@ _Implementations of array API standard_
 	pip install ndonnx
 	`
 </details>
-<details><summary><b><a href="https://github.com/34j/numpy-flint-arb">numpy-flint-arb</a></b> (🥉11 ·  ⭐ 1 · 🐣) - Arbitrary precision floating / ball arithmetic.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Verified</code> <code>Multiprecision</code></summary>
+<details><summary><b><a href="https://github.com/34j/numpy-flint-arb">numpy-flint-arb</a></b> (🥉13 ·  ⭐ 1 · 📈) - Arbitrary precision floating / ball arithmetic.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Verified</code> <code>Multiprecision</code></summary>
 
-- [GitHub](https://github.com/34j/numpy-flint-arb) (👨‍💻 3 · 📥 40 · 📋 2 - 50% open · ⏱️ 25.06.2026):
+- [GitHub](https://github.com/34j/numpy-flint-arb) (👨‍💻 3 · 📥 40 · 📋 2 - 50% open · ⏱️ 30.06.2026):
 
   ```
   git clone https://github.com/34j/numpy-flint-arb
   ```
 
-- [PyPi](https://pypi.org/project/numpy-flint-arb) (⏱️ 14.06.2026):
+- [PyPi](https://pypi.org/project/numpy-flint-arb) (📥 480 / month · ⏱️ 26.06.2026):
 `
 	pip install numpy-flint-arb
 	`
@@ -215,7 +215,7 @@ _array API related packages_
 
 <details><summary><b><a href="https://github.com/data-apis/array-api-compat">array-api-compat</a></b> (🥇28 ·  ⭐ 130) - Compatibility layer for common array libraries to support the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-compat) (👨‍💻 28 · 🔀 44 · 📥 280 · 📦 810 · 📋 150 - 24% open · ⏱️ 15.06.2026):
+- [GitHub](https://github.com/data-apis/array-api-compat) (👨‍💻 28 · 🔀 44 · 📥 290 · 📦 820 · 📋 150 - 24% open · ⏱️ 29.06.2026):
 
   ```
   git clone https://github.com/data-apis/array-api-compat
@@ -228,33 +228,33 @@ _array API related packages_
 </details>
 <details><summary><b><a href="https://github.com/data-apis/array-api-extra">array-api-extra</a></b> (🥈24 ·  ⭐ 30) - Extra array functions built on top of the array API standard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-extra) (👨‍💻 20 · 🔀 21 · 📦 37 · 📋 120 - 42% open · ⏱️ 22.06.2026):
+- [GitHub](https://github.com/data-apis/array-api-extra) (👨‍💻 20 · 🔀 21 · 📦 40 · 📋 120 - 42% open · ⏱️ 02.07.2026):
 
   ```
   git clone https://github.com/data-apis/array-api-extra
   ```
 
-- [PyPi](https://pypi.org/project/array-api-extra) (📥 27K / month · 📦 32 · ⏱️ 10.06.2026):
+- [PyPi](https://pypi.org/project/array-api-extra) (📥 29K / month · 📦 32 · ⏱️ 10.06.2026):
 `
 	pip install array-api-extra
 	`
 </details>
 <details><summary><b><a href="https://github.com/data-apis/array-api-strict">array-api-strict</a></b> (🥉20 ·  ⭐ 31) - Strict implementation of the Python array API.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-strict) (👨‍💻 33 · 🔀 13 · 📥 120 · 📋 53 - 20% open · ⏱️ 15.06.2026):
+- [GitHub](https://github.com/data-apis/array-api-strict) (👨‍💻 33 · 🔀 13 · 📥 120 · 📋 53 - 20% open · ⏱️ 02.07.2026):
 
   ```
   git clone https://github.com/data-apis/array-api-strict
   ```
 
-- [PyPi](https://pypi.org/project/array-api-strict) (📥 150K / month · 📦 32 · ⏱️ 23.02.2026):
+- [PyPi](https://pypi.org/project/array-api-strict) (📥 170K / month · 📦 32 · ⏱️ 23.02.2026):
 `
 	pip install array-api-strict
 	`
 </details>
-<details><summary><b><a href="https://github.com/data-apis/array-api-tests">array-api-tests</a></b> (🥉14 ·  ⭐ 73) - Test suite for Python array API standard compliance. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/data-apis/array-api-tests">array-api-tests</a></b> (🥉13 ·  ⭐ 73) - Test suite for Python array API standard compliance. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-tests) (👨‍💻 19 · 🔀 47 · 📋 170 - 33% open · ⏱️ 03.04.2026):
+- [GitHub](https://github.com/data-apis/array-api-tests) (👨‍💻 19 · 🔀 47 · 📋 170 - 32% open · ⏱️ 03.04.2026):
 
       ```
       git clone https://github.com/data-apis/array-api-tests
@@ -269,15 +269,15 @@ _array API related packages_
 
 _Packages related to typing_
 
-<details><summary><b><a href="https://github.com/34j/types-array-api">types-array-api</a></b> (🥇19 ·  ⭐ 7 · 📈) - Autogenerated types for array-api-compat and array API -.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/34j/types-array-api">types-array-api</a></b> (🥇15 ·  ⭐ 7 · 📉) - Autogenerated types for array-api-compat and array API -.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/34j/types-array-api) (👨‍💻 3 · 🔀 1 · 📥 64 · 📋 5 - 40% open · ⏱️ 25.06.2026):
+- [GitHub](https://github.com/34j/types-array-api) (👨‍💻 3 · 🔀 1 · 📥 64 · 📋 5 - 40% open · ⏱️ 30.06.2026):
 
   ```
   git clone https://github.com/34j/types-array-api
   ```
 
-- [PyPi](https://pypi.org/project/types-array-api) (📥 11K / month · 📦 18 · ⏱️ 28.02.2026):
+- [PyPi](https://pypi.org/project/types-array-api) (📦 18 · ⏱️ 28.02.2026):
 `
 	pip install types-array-api
 	`
@@ -290,9 +290,9 @@ _Packages related to typing_
 
 _Packages useful for developing array API compatible packages, with less scientific context_
 
-<details><summary><b><a href="https://github.com/pydata/xarray">xarray</a></b> (🥇40 ·  ⭐ 4.2K · 📈) - N-D labeled arrays and datasets in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pydata/xarray">xarray</a></b> (🥇40 ·  ⭐ 4.2K) - N-D labeled arrays and datasets in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pydata/xarray) (👨‍💻 620 · 🔀 1.3K · 📦 45K · 📋 5.3K - 25% open · ⏱️ 24.06.2026):
+- [GitHub](https://github.com/pydata/xarray) (👨‍💻 620 · 🔀 1.3K · 📦 45K · 📋 5.3K - 25% open · ⏱️ 02.07.2026):
 
   ```
   git clone https://github.com/pydata/xarray
@@ -303,20 +303,20 @@ _Packages useful for developing array API compatible packages, with less scienti
 	pip install xarray
 	`
 </details>
-<details><summary><b><a href="https://github.com/scikit-hep/ragged">ragged</a></b> (🥈19 ·  ⭐ 48) - Manipulating ragged arrays in an Array API compliant way. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/scikit-hep/ragged">ragged</a></b> (🥈16 ·  ⭐ 48 · 📉) - Manipulating ragged arrays in an Array API compliant way. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/scikit-hep/ragged) (👨‍💻 5 · 🔀 9 · 📦 59 · 📋 37 - 21% open · ⏱️ 03.06.2026):
+- [GitHub](https://github.com/scikit-hep/ragged) (👨‍💻 5 · 🔀 9 · 📦 60 · 📋 37 - 21% open · ⏱️ 29.06.2026):
 
   ```
   git clone https://github.com/scikit-hep/ragged
   ```
 
-- [PyPi](https://pypi.org/project/ragged) (📥 5.5K / month · 📦 4 · ⏱️ 03.06.2026):
+- [PyPi](https://pypi.org/project/ragged) (📦 4 · ⏱️ 03.06.2026):
 `
 	pip install ragged
 	`
 </details>
-<details><summary><b><a href="https://github.com/mdhaber/marray">marray</a></b> (🥉18 ·  ⭐ 33 · 📈) - Masked versions of array API compatible arrays. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mdhaber/marray">marray</a></b> (🥉15 ·  ⭐ 33) - Masked versions of array API compatible arrays. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/mdhaber/marray) (👨‍💻 4 · 🔀 3 · 📦 3 · 📋 60 - 35% open · ⏱️ 22.06.2026):
 
@@ -324,33 +324,33 @@ _Packages useful for developing array API compatible packages, with less scienti
   git clone https://github.com/mdhaber/marray
   ```
 
-- [PyPi](https://pypi.org/project/marray) (📥 1.2K / month · ⏱️ 18.09.2025):
+- [PyPi](https://pypi.org/project/marray) (⏱️ 18.09.2025):
 `
 	pip install marray
 	`
 </details>
-<details><summary><b><a href="https://github.com/34j/array-api-negative-index">array-api-negative-index</a></b> (🥉10 ·  ⭐ 1) - Utils for indexing arrays with {-n, -(n-1), ..., -1,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/34j/array-api-negative-index">array-api-negative-index</a></b> (🥉14 ·  ⭐ 1 · 📈) - Utils for indexing arrays with {-n, -(n-1), ..., -1,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/34j/array-api-negative-index) (👨‍💻 3 · 📥 8 · ⏱️ 25.06.2026):
+- [GitHub](https://github.com/34j/array-api-negative-index) (👨‍💻 3 · 📥 8 · ⏱️ 01.07.2026):
 
   ```
   git clone https://github.com/34j/array-api-negative-index
   ```
 
-- [PyPi](https://pypi.org/project/array-api-negative-index) (⏱️ 23.08.2025):
+- [PyPi](https://pypi.org/project/array-api-negative-index) (📥 1.7K / month · ⏱️ 23.08.2025):
 `
 	pip install array-api-negative-index
 	`
 </details>
-<details><summary><b><a href="https://github.com/quantity-dev/quantity-array">quantity-array</a></b> (🥉8 ·  ⭐ 5) - Quantities with array API standard arrays. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/quantity-dev/quantity-array">quantity-array</a></b> (🥉10 ·  ⭐ 5 · 📈) - Quantities with array API standard arrays. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/quantity-dev/quantity-array) (👨‍💻 5 · 🔀 2 · 📋 19 - 68% open · ⏱️ 22.06.2026):
+- [GitHub](https://github.com/quantity-dev/quantity-array) (👨‍💻 5 · 🔀 2 · 📋 19 - 68% open · ⏱️ 29.06.2026):
 
   ```
   git clone https://github.com/quantity-dev/quantity-array
   ```
 
-- [PyPi](https://pypi.org/project/quantity-array) (⏱️ 19.01.2025):
+- [PyPi](https://pypi.org/project/quantity-array) (📥 90 / month · ⏱️ 19.01.2025):
 `
 	pip install quantity-array
 	`
@@ -371,15 +371,15 @@ _array API compatible packages with non-machine learning scientific context_
 
 _array API compatible packages with machine learning context_
 
-<details><summary><b><a href="https://github.com/helmholtz-analytics/heat">heat</a></b> (🥇27 ·  ⭐ 240 · 📈) - Distributed tensors and Machine Learning framework with GPU and MPI.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/helmholtz-analytics/heat">heat</a></b> (🥇24 ·  ⭐ 240 · 📉) - Distributed tensors and Machine Learning framework with GPU and MPI.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/helmholtz-analytics/heat) (👨‍💻 69 · 🔀 66 · 📥 95 · 📦 82 · 📋 890 - 9% open · ⏱️ 25.06.2026):
+- [GitHub](https://github.com/helmholtz-analytics/heat) (👨‍💻 69 · 🔀 66 · 📥 95 · 📦 82 · 📋 890 - 9% open · ⏱️ 30.06.2026):
 
   ```
   git clone https://github.com/helmholtz-analytics/heat
   ```
 
-- [PyPi](https://pypi.org/project/heat) (📥 1K / month · ⏱️ 26.03.2026):
+- [PyPi](https://pypi.org/project/heat) (⏱️ 26.03.2026):
 `
 	pip install heat
 	`
