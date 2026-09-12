@@ -19,8 +19,8 @@ jobs:
     steps:
       - name: Set version
         run: echo "VERSION=$(date '+%Y.%m.%d')" >> $GITHUB_ENV
-      - uses: actions/checkout@v6.0.2
-      - uses: astral-sh/setup-uv@v8.1.0
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: astral-sh/setup-uv@bec219d24cd3e171d82865faccec33120bb574f4 # v10.1.0
       - name: Best of list update
         run: uvx best-of generate projects.yaml -g ${{ secrets.GITHUB_TOKEN}} -l ${{ secrets.LIBRARIES_KEY}}
       - uses: fregante/setup-git-user@v2
