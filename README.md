@@ -116,28 +116,15 @@ _Implementations of array API standard_
 </details>
 <details><summary><b><a href="https://github.com/jax-ml/jax">JAX</a></b> (🥈34 ·  ⭐ 36K) - Composable transformations of Python+NumPy programs: differentiate,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>Non-CPU</code></summary>
 
-- [GitHub](https://github.com/jax-ml/jax) (👨‍💻 1.2K · 🔀 3.8K · 📦 52K):
+- [GitHub](https://github.com/jax-ml/jax) (👨‍💻 1.2K · 🔀 3.9K · 📦 52K):
 
   ```
   git clone https://github.com/jax-ml/jax
   ```
 
-- [PyPi](https://pypi.org/project/jax) (📥 8.7M / month · 📦 5.5K · ⏱️ 17.09.2026):
+- [PyPi](https://pypi.org/project/jax) (📥 8.7M / month · 📦 5.9K · ⏱️ 21.10.2026):
 `
 	pip install jax
-	`
-</details>
-<details><summary><b><a href="https://github.com/unifyai/ivy">Ivy</a></b> (🥉33 ·  ⭐ 14K) - Convert Machine Learning Code Between Frameworks. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>Non-CPU</code></summary>
-
-- [GitHub](https://github.com/unifyai/ivy) (👨‍💻 1.5K · 🔀 5.6K · 📋 17K - 5% open · ⏱️ 07.10.2026):
-
-  ```
-  git clone https://github.com/ivy-llc/ivy
-  ```
-
-- [PyPi](https://pypi.org/project/ivy) (📥 15K / month · 📦 16 · ⏱️ 16.06.2025):
-`
-	pip install ivy
 	`
 </details>
 <details><summary><b><a href="https://github.com/cupy/cupy">CuPy</a></b> (🥉29 ·  ⭐ 12K) - NumPy & SciPy for GPU. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Non-CPU</code></summary>
@@ -205,6 +192,10 @@ _Implementations of array API standard_
 	pip install numpy-flint-arb
 	`
 </details>
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/ivy-llc/ivy">Ivy</a></b> (🥉24 · ⭐ 14K · 💀) - Convert Machine Learning Code Between Frameworks. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>Non-CPU</code>
+</details>
 <br>
 
 ## Core packages
@@ -215,7 +206,7 @@ _array API related packages_
 
 <details><summary><b><a href="https://github.com/data-apis/array-api-compat">array-api-compat</a></b> (🥇23 ·  ⭐ 120) - Compatibility layer for common array libraries to support the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-compat) (👨‍💻 32 · 🔀 44 · 📦 990):
+- [GitHub](https://github.com/data-apis/array-api-compat) (👨‍💻 32 · 🔀 44 · 📦 1K):
 
   ```
   git clone https://github.com/data-apis/array-api-compat
@@ -228,7 +219,7 @@ _array API related packages_
 </details>
 <details><summary><b><a href="https://github.com/data-apis/array-api-extra">array-api-extra</a></b> (🥈21 ·  ⭐ 33) - Extra array functions built on top of the array API standard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-extra) (👨‍💻 30 · 🔀 32 · 📦 54):
+- [GitHub](https://github.com/data-apis/array-api-extra) (👨‍💻 31 · 🔀 32 · 📦 54):
 
   ```
   git clone https://github.com/data-apis/array-api-extra
@@ -241,7 +232,7 @@ _array API related packages_
 </details>
 <details><summary><b><a href="https://github.com/data-apis/array-api-strict">array-api-strict</a></b> (🥉15 ·  ⭐ 33) - Strict implementation of the Python array API.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-strict) (👨‍💻 33 · 🔀 13):
+- [GitHub](https://github.com/data-apis/array-api-strict) (👨‍💻 34 · 🔀 13):
 
   ```
   git clone https://github.com/data-apis/array-api-strict
@@ -292,7 +283,7 @@ _Packages useful for developing array API compatible packages, with less scienti
 
 <details><summary><b><a href="https://github.com/pydata/xarray">xarray</a></b> (🥇32 ·  ⭐ 4.2K) - N-D labeled arrays and datasets in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pydata/xarray) (👨‍💻 660 · 🔀 1.4K · 📦 46K):
+- [GitHub](https://github.com/pydata/xarray) (👨‍💻 680 · 🔀 1.4K · 📦 46K):
 
   ```
   git clone https://github.com/pydata/xarray
