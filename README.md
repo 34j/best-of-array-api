@@ -88,15 +88,15 @@ _Implementations of array API standard_
 	pip install numpy
 	`
 </details>
-<details><summary><b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b> (🥈37 ·  ⭐ 100K) - Tensors and Dynamic neural networks in Python with strong.. <code>❗Unlicensed</code> <code>Non-CPU</code></summary>
+<details><summary><b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b> (🥈37 ·  ⭐ 110K) - Tensors and Dynamic neural networks in Python with strong.. <code>❗Unlicensed</code> <code>Non-CPU</code></summary>
 
-- [GitHub](https://github.com/pytorch/pytorch) (👨‍💻 7.2K · 🔀 32K · 📦 880K):
+- [GitHub](https://github.com/pytorch/pytorch) (👨‍💻 7.2K · 🔀 32K · 📦 890K):
 
   ```
   git clone https://github.com/pytorch/pytorch
   ```
 
-- [PyPi](https://pypi.org/project/torch) (📥 59M / month · 📦 49K · ⏱️ 30.09.2026):
+- [PyPi](https://pypi.org/project/torch) (📥 59M / month · 📦 51K · ⏱️ 28.10.2026):
 `
 	pip install torch
 	`
@@ -114,9 +114,9 @@ _Implementations of array API standard_
 	pip install dask
 	`
 </details>
-<details><summary><b><a href="https://github.com/jax-ml/jax">JAX</a></b> (🥈34 ·  ⭐ 36K) - Composable transformations of Python+NumPy programs: differentiate,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>Non-CPU</code></summary>
+<details><summary><b><a href="https://github.com/jax-ml/jax">JAX</a></b> (🥈34 ·  ⭐ 37K) - Composable transformations of Python+NumPy programs: differentiate,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>Non-CPU</code></summary>
 
-- [GitHub](https://github.com/jax-ml/jax) (👨‍💻 1.2K · 🔀 3.9K · 📦 52K):
+- [GitHub](https://github.com/jax-ml/jax) (👨‍💻 1.2K · 🔀 4K · 📦 52K):
 
   ```
   git clone https://github.com/jax-ml/jax
@@ -129,7 +129,7 @@ _Implementations of array API standard_
 </details>
 <details><summary><b><a href="https://github.com/cupy/cupy">CuPy</a></b> (🥉29 ·  ⭐ 12K) - NumPy & SciPy for GPU. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Non-CPU</code></summary>
 
-- [GitHub](https://github.com/cupy/cupy) (👨‍💻 490 · 🔀 1.1K · 📦 8.2K):
+- [GitHub](https://github.com/cupy/cupy) (👨‍💻 490 · 🔀 1.1K · 📦 8.3K):
 
   ```
   git clone https://github.com/cupy/cupy
@@ -140,15 +140,15 @@ _Implementations of array API standard_
 	pip install cupy
 	`
 </details>
-<details><summary><b><a href="https://github.com/pydata/sparse">sparse</a></b> (🥉25 ·  ⭐ 670) - Sparse multi-dimensional arrays for the PyData ecosystem. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pydata/sparse">sparse</a></b> (🥉26 ·  ⭐ 670 · 📈) - Sparse multi-dimensional arrays for the PyData ecosystem. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pydata/sparse) (👨‍💻 71 · 🔀 140 · 📦 2.4K):
+- [GitHub](https://github.com/pydata/sparse) (👨‍💻 72 · 🔀 160 · 📦 2.4K):
 
   ```
   git clone https://github.com/pydata/sparse
   ```
 
-- [PyPi](https://pypi.org/project/sparse) (📥 910K / month · 📦 350 · ⏱️ 14.08.2026):
+- [PyPi](https://pypi.org/project/sparse) (📥 910K / month · 📦 360 · ⏱️ 26.10.2026):
 `
 	pip install sparse
 	`
@@ -204,28 +204,28 @@ _Implementations of array API standard_
 
 _array API related packages_
 
-<details><summary><b><a href="https://github.com/data-apis/array-api-compat">array-api-compat</a></b> (🥇23 ·  ⭐ 120) - Compatibility layer for common array libraries to support the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/data-apis/array-api-compat">array-api-compat</a></b> (🥇24 ·  ⭐ 130 · 📈) - Compatibility layer for common array libraries to support.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-compat) (👨‍💻 32 · 🔀 44 · 📦 1K):
+- [GitHub](https://github.com/data-apis/array-api-compat) (👨‍💻 33 · 🔀 52 · 📦 1K):
 
   ```
   git clone https://github.com/data-apis/array-api-compat
   ```
 
-- [PyPi](https://pypi.org/project/array-api-compat) (📥 1.8M / month · 📦 200 · ⏱️ 07.06.2026):
+- [PyPi](https://pypi.org/project/array-api-compat) (📥 1.8M / month · 📦 290 · ⏱️ 25.10.2026):
 `
 	pip install array-api-compat
 	`
 </details>
-<details><summary><b><a href="https://github.com/data-apis/array-api-extra">array-api-extra</a></b> (🥈21 ·  ⭐ 33) - Extra array functions built on top of the array API standard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/data-apis/array-api-extra">array-api-extra</a></b> (🥈21 ·  ⭐ 34) - Extra array functions built on top of the array API standard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-extra) (👨‍💻 31 · 🔀 32 · 📦 54):
+- [GitHub](https://github.com/data-apis/array-api-extra) (👨‍💻 31 · 🔀 34 · 📦 56):
 
   ```
   git clone https://github.com/data-apis/array-api-extra
   ```
 
-- [PyPi](https://pypi.org/project/array-api-extra) (📥 67K / month · 📦 45 · ⏱️ 07.09.2026):
+- [PyPi](https://pypi.org/project/array-api-extra) (📥 67K / month · 📦 47 · ⏱️ 25.10.2026):
 `
 	pip install array-api-extra
 	`
@@ -245,7 +245,7 @@ _array API related packages_
 </details>
 <details><summary><b><a href="https://github.com/data-apis/array-api-tests">array-api-tests</a></b> (🥉9 ·  ⭐ 69 · 💤) - Test suite for Python array API standard compliance. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-tests) (👨‍💻 25 · 🔀 47):
+- [GitHub](https://github.com/data-apis/array-api-tests) (👨‍💻 26 · 🔀 47):
 
       ```
       git clone https://github.com/data-apis/array-api-tests
@@ -283,7 +283,7 @@ _Packages useful for developing array API compatible packages, with less scienti
 
 <details><summary><b><a href="https://github.com/pydata/xarray">xarray</a></b> (🥇32 ·  ⭐ 4.2K) - N-D labeled arrays and datasets in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pydata/xarray) (👨‍💻 680 · 🔀 1.4K · 📦 46K):
+- [GitHub](https://github.com/pydata/xarray) (👨‍💻 690 · 🔀 1.4K · 📦 46K):
 
   ```
   git clone https://github.com/pydata/xarray
@@ -296,7 +296,7 @@ _Packages useful for developing array API compatible packages, with less scienti
 </details>
 <details><summary><b><a href="https://github.com/scikit-hep/ragged">ragged</a></b> (🥈18 ·  ⭐ 48) - Manipulating ragged arrays in an Array API compliant way. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/scikit-hep/ragged) (👨‍💻 6 · 🔀 8 · 📦 68):
+- [GitHub](https://github.com/scikit-hep/ragged) (👨‍💻 6 · 🔀 8 · 📦 71):
 
   ```
   git clone https://github.com/scikit-hep/ragged
