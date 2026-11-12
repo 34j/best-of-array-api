@@ -90,7 +90,7 @@ _Implementations of array API standard_
 </details>
 <details><summary><b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b> (🥈37 ·  ⭐ 110K) - Tensors and Dynamic neural networks in Python with strong.. <code>❗Unlicensed</code> <code>Non-CPU</code></summary>
 
-- [GitHub](https://github.com/pytorch/pytorch) (👨‍💻 7.2K · 🔀 32K · 📦 890K):
+- [GitHub](https://github.com/pytorch/pytorch) (👨‍💻 7.3K · 🔀 32K · 📦 890K):
 
   ```
   git clone https://github.com/pytorch/pytorch
@@ -127,9 +127,9 @@ _Implementations of array API standard_
 	pip install jax
 	`
 </details>
-<details><summary><b><a href="https://github.com/cupy/cupy">CuPy</a></b> (🥉29 ·  ⭐ 12K) - NumPy & SciPy for GPU. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Non-CPU</code></summary>
+<details><summary><b><a href="https://github.com/cupy/cupy">CuPy</a></b> (🥉28 ·  ⭐ 12K · 📉) - NumPy & SciPy for GPU. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Non-CPU</code></summary>
 
-- [GitHub](https://github.com/cupy/cupy) (👨‍💻 490 · 🔀 1.1K · 📦 8.3K):
+- [GitHub](https://github.com/cupy/cupy) (👨‍💻 490 · 🔀 1.1K · 📦 8.4K):
 
   ```
   git clone https://github.com/cupy/cupy
@@ -140,9 +140,9 @@ _Implementations of array API standard_
 	pip install cupy
 	`
 </details>
-<details><summary><b><a href="https://github.com/pydata/sparse">sparse</a></b> (🥉26 ·  ⭐ 670 · 📈) - Sparse multi-dimensional arrays for the PyData ecosystem. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pydata/sparse">sparse</a></b> (🥉26 ·  ⭐ 670) - Sparse multi-dimensional arrays for the PyData ecosystem. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pydata/sparse) (👨‍💻 72 · 🔀 160 · 📦 2.4K):
+- [GitHub](https://github.com/pydata/sparse) (👨‍💻 74 · 🔀 160 · 📦 2.5K):
 
   ```
   git clone https://github.com/pydata/sparse
@@ -181,13 +181,13 @@ _Implementations of array API standard_
 </details>
 <details><summary><b><a href="https://github.com/34j/numpy-flint-arb">numpy-flint-arb</a></b> (🥉9 ·  ⭐ 1) - Arbitrary precision floating / ball arithmetic (interval.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>Verified</code> <code>Multiprecision</code></summary>
 
-- [GitHub](https://github.com/34j/numpy-flint-arb) (👨‍💻 3 · 🔀 1):
+- [GitHub](https://github.com/34j/numpy-flint-arb) (👨‍💻 3):
 
   ```
   git clone https://github.com/34j/numpy-flint-arb
   ```
 
-- [PyPi](https://pypi.org/project/numpy-flint-arb) (📥 49 / month · ⏱️ 26.06.2026):
+- [PyPi](https://pypi.org/project/numpy-flint-arb) (📥 49 / month · ⏱️ 07.11.2026):
 `
 	pip install numpy-flint-arb
 	`
@@ -204,9 +204,9 @@ _Implementations of array API standard_
 
 _array API related packages_
 
-<details><summary><b><a href="https://github.com/data-apis/array-api-compat">array-api-compat</a></b> (🥇24 ·  ⭐ 130 · 📈) - Compatibility layer for common array libraries to support.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/data-apis/array-api-compat">array-api-compat</a></b> (🥇24 ·  ⭐ 130) - Compatibility layer for common array libraries to support the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-compat) (👨‍💻 33 · 🔀 52 · 📦 1K):
+- [GitHub](https://github.com/data-apis/array-api-compat) (👨‍💻 35 · 🔀 52 · 📦 1.1K):
 
   ```
   git clone https://github.com/data-apis/array-api-compat
@@ -219,7 +219,7 @@ _array API related packages_
 </details>
 <details><summary><b><a href="https://github.com/data-apis/array-api-extra">array-api-extra</a></b> (🥈21 ·  ⭐ 34) - Extra array functions built on top of the array API standard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/data-apis/array-api-extra) (👨‍💻 31 · 🔀 34 · 📦 56):
+- [GitHub](https://github.com/data-apis/array-api-extra) (👨‍💻 31 · 🔀 34 · 📦 62):
 
   ```
   git clone https://github.com/data-apis/array-api-extra
@@ -283,7 +283,7 @@ _Packages useful for developing array API compatible packages, with less scienti
 
 <details><summary><b><a href="https://github.com/pydata/xarray">xarray</a></b> (🥇32 ·  ⭐ 4.2K) - N-D labeled arrays and datasets in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pydata/xarray) (👨‍💻 690 · 🔀 1.4K · 📦 46K):
+- [GitHub](https://github.com/pydata/xarray) (👨‍💻 700 · 🔀 1.4K · 📦 47K):
 
   ```
   git clone https://github.com/pydata/xarray
@@ -296,7 +296,7 @@ _Packages useful for developing array API compatible packages, with less scienti
 </details>
 <details><summary><b><a href="https://github.com/scikit-hep/ragged">ragged</a></b> (🥈18 ·  ⭐ 48) - Manipulating ragged arrays in an Array API compliant way. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/scikit-hep/ragged) (👨‍💻 6 · 🔀 8 · 📦 71):
+- [GitHub](https://github.com/scikit-hep/ragged) (👨‍💻 6 · 🔀 8 · 📦 74):
 
   ```
   git clone https://github.com/scikit-hep/ragged
@@ -307,7 +307,7 @@ _Packages useful for developing array API compatible packages, with less scienti
 	pip install ragged
 	`
 </details>
-<details><summary><b><a href="https://github.com/mdhaber/marray">marray</a></b> (🥉14 ·  ⭐ 35) - Masked versions of array API compatible arrays. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mdhaber/marray">marray</a></b> (🥉13 ·  ⭐ 35 · 📉) - Masked versions of array API compatible arrays. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/mdhaber/marray) (👨‍💻 4 · 🔀 3 · 📦 6):
 
@@ -320,7 +320,7 @@ _Packages useful for developing array API compatible packages, with less scienti
 	pip install marray
 	`
 </details>
-<details><summary><b><a href="https://github.com/34j/array-api-negative-index">array-api-negative-index</a></b> (🥉9 ·  ⭐ 1) - Utils for indexing arrays with {-n, -(n-1), ..., -1, 0,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/34j/array-api-negative-index">array-api-negative-index</a></b> (🥉11 ·  ⭐ 1 · 📈) - Utils for indexing arrays with {-n, -(n-1), ..., -1,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/34j/array-api-negative-index) (👨‍💻 3):
 
@@ -328,7 +328,7 @@ _Packages useful for developing array API compatible packages, with less scienti
   git clone https://github.com/34j/array-api-negative-index
   ```
 
-- [PyPi](https://pypi.org/project/array-api-negative-index) (📥 940 / month · ⏱️ 23.08.2025):
+- [PyPi](https://pypi.org/project/array-api-negative-index) (📥 940 / month · 📦 4 · ⏱️ 08.11.2026):
 `
 	pip install array-api-negative-index
 	`
@@ -368,7 +368,7 @@ _array API compatible packages with machine learning context_
 </details>
 <details><summary><b><a href="https://github.com/helmholtz-analytics/heat">heat</a></b> (🥇17 ·  ⭐ 250) - Distributed tensors and Machine Learning framework with GPU and MPI.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/helmholtz-analytics/heat) (👨‍💻 74 · 🔀 72 · 📦 82):
+- [GitHub](https://github.com/helmholtz-analytics/heat) (👨‍💻 75 · 🔀 72 · 📦 82):
 
   ```
   git clone https://github.com/helmholtz-analytics/heat
