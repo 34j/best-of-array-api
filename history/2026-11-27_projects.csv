@@ -1,0 +1,24 @@
+,github_id,name,category,pypi_id,homepage,dependent_project_count,github_dependent_project_count,contributor_count,pypi_url,pypi_monthly_downloads,monthly_downloads,description,projectrank,show,projectrank_placing,labels,trending
+0,numpy/numpy,NumPy,backend,numpy,{},3746625.0,3746625.0,2208,https://pypi.org/project/numpy,1150404193.0,1150404193.0,,22,False,1.0,,
+1,pytorch/pytorch,PyTorch,backend,torch,{},892745.0,892745.0,7376,https://pypi.org/project/torch,57435803.0,57435803.0,,20,False,2.0,['noncpu'],
+2,jax-ml/jax,JAX,backend,jax,{},52437.0,52437.0,1188,https://pypi.org/project/jax,13647670.0,13647670.0,,17,False,2.0,['noncpu'],
+3,data-apis/array-api-compat,array-api-compat,core,array-api-compat,{},1095.0,1095.0,35,https://pypi.org/project/array-api-compat,3161647.0,3161647.0,,12,False,1.0,,
+4,dask/dask,Dask,backend,dask,{},81307.0,81307.0,661,https://pypi.org/project/dask,,,,10,False,3.0,['noncpu'],
+5,data-apis/array-api-extra,array-api-extra,core,array-api-extra,{},63.0,63.0,31,https://pypi.org/project/array-api-extra,144794.0,144794.0,,9,False,2.0,,
+6,pydata/xarray,xarray,utility,xarray,{},46929.0,46929.0,712,https://pypi.org/project/xarray,,,,9,False,1.0,,
+7,cupy/cupy,CuPy,backend,cupy,{},8439.0,8439.0,496,https://pypi.org/project/cupy,,,,8,False,3.0,['noncpu'],
+8,data-apis/array-api-strict,array-api-strict,core,array-api-strict,{},,,34,https://pypi.org/project/array-api-strict,97778.0,97778.0,,6,False,3.0,,-10.0
+9,pydata/sparse,sparse,backend,sparse,{},2477.0,2477.0,77,https://pypi.org/project/sparse,,,,6,False,3.0,,
+10,ivy-llc/ivy,Ivy,backend,ivy,{},,,1485,https://pypi.org/project/ivy,3621.0,3621.0,,6,False,3.0,['noncpu'],
+11,helmholtz-analytics/heat,heat,ml,heat,{},82.0,82.0,76,https://pypi.org/project/heat,633.0,633.0,,6,False,1.0,,
+12,wilsonrljr/sysidentpy,SysIdentPy,ml,sysidentpy,{},30.0,30.0,22,https://pypi.org/project/sysidentpy,3665.0,3665.0,,6,False,1.0,,
+13,34j/types-array-api,types-array-api,typing,types-array-api,{},,,3,https://pypi.org/project/types-array-api,19105.0,19105.0,,4,False,1.0,,-10.0
+14,scikit-hep/ragged,ragged,utility,ragged,{},75.0,75.0,6,https://pypi.org/project/ragged,,,,3,False,2.0,,
+15,34j/array-api-negative-index,array-api-negative-index,utility,array-api-negative-index,{},,,3,https://pypi.org/project/array-api-negative-index,2155.0,2155.0,,3,False,2.0,,-9.0
+16,data-apis/array-api,Array API standard,definition,,{},4.0,4.0,38,,,,,2,False,1.0,,-9.0
+17,Quantco/ndonnx,ndonnx,backend,ndonnx,{},31.0,31.0,15,https://pypi.org/project/ndonnx,,,,2,False,3.0,['noncpu'],
+18,data-apis/array-api-tests,array-api-tests,core,,{},,,26,,,,,1,False,3.0,,
+19,mdhaber/marray,marray,utility,marray,{},7.0,7.0,4,https://pypi.org/project/marray,,,,1,False,3.0,,
+20,quantity-dev/quantity-array,quantity-array,utility,quantity-array,{},,,5,https://pypi.org/project/quantity-array,26.0,26.0,,1,False,3.0,,
+21,mdhaber/mparray,mparray,backend,mparray,{},,,4,https://pypi.org/project/mparray,,,,0,False,,"['verified', 'multiprec']",
+22,34j/numpy-flint-arb,numpy-flint-arb,backend,numpy-flint-arb,{},,,3,https://pypi.org/project/numpy-flint-arb,,,,0,False,,"['verified', 'multiprec']",-10.0
